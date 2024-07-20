@@ -1,0 +1,333 @@
+[
+  {
+    "cheap": [
+      {
+        "name": "Renault Symbol",
+        "image": "/symbol.png",
+        "year": "2022",
+        "price": "650",
+        "type": "Ekonomik",
+        "fuel": "Dizel",
+        "vites": "Manuel"
+      },
+      {
+        "name": "Renault Fluence",
+        "image": "/fluence.png",
+        "year": "2022",
+        "price": "650",
+        "type": "Ekonomik",
+        "fuel": "Dizel",
+        "vites": "Manuel"
+      },
+      {
+        "name": "Fiat Punto",
+        "image": "/punto.png",
+        "year": "2022",
+        "price": "650",
+        "type": "Ekonomik",
+        "fuel": "Dizel",
+        "vites": "Manuel"
+      },
+      {
+        "name": "Fiat Linea",
+        "image": "/linea.png",
+        "year": "2022",
+        "price": "700",
+        "type": "Ekonomik",
+        "fuel": "Dizel",
+        "vites": "Otomatik"
+      },
+      {
+        "name": "Fiat Egea",
+        "image": "/egea.png",
+        "year": "2022",
+        "price": "700",
+        "type": "Ekonomik",
+        "fuel": "Dizel",
+        "vites": "Otomatik"
+      },
+      {
+        "name": "Ford Focus",
+        "image": "/focus.png",
+        "year": "2022",
+        "price": "700",
+        "type": "Ekonomik",
+        "fuel": "Dizel",
+        "vites": "Otomatik"
+      },
+      {
+        "name": "Hyundai i20",
+        "image": "/car1.png",
+        "year": "2022",
+        "price": "700",
+        "type": "Ekonomik",
+        "fuel": "Dizel",
+        "vites": "Manuel"
+      },
+      {
+        "name": "Hyundai i30",
+        "image": "/car2.png",
+        "year": "2022",
+        "price": "700",
+        "type": "Ekonomik",
+        "fuel": "Dizel",
+        "vites": "Otomatik"
+      },
+      {
+        "name": "Ford Tourneo Courier",
+        "image": "/car3.png",
+        "year": "2022",
+        "price": "750",
+        "type": "Ekonomik",
+        "fuel": "Dizel",
+        "vites": "Manuel"
+      },
+      {
+        "name": "Fiat Fiorino",
+        "image": "/car4.png",
+        "year": "2022",
+        "price": "750",
+        "type": "Ekonomik",
+        "fuel": "Dizel",
+        "vites": "Manuel"
+      },
+      {
+        "name": "Volkswagen Caddy",
+        "image": "/car5.png",
+        "year": "2022",
+        "price": "750",
+        "type": "Ekonomik",
+        "fuel": "Dizel",
+        "vites": "Manuel"
+      },
+      {
+        "name": "Opel İnsigna",
+        "image": "/car6.png",
+        "year": "2022",
+        "price": "750",
+        "type": "Ekonomik",
+        "fuel": "Dizel",
+        "vites": "Manuel"
+      },
+      {
+        "name": "Opel Corsa",
+        "image": "/car7.png",
+        "year": "2022",
+        "price": "750",
+        "type": "Ekonomik",
+        "fuel": "Dizel",
+        "vites": "Otomatik"
+      }
+    ],
+    "mid": [
+      {
+        "name": "Honda Civic",
+        "image": "/car8.png",
+        "year": "2022",
+        "price": "850",
+        "type": "Orta",
+        "fuel": "Benzin",
+        "vites": "Otomatik"
+      },
+      {
+        "name": "Skoda SuperB",
+        "image": "/car9.png",
+        "year": "2022",
+        "price": "850",
+        "type": "Orta",
+        "fuel": "Benzin",
+        "vites": "Otomatik"
+      },
+      {
+        "name": "Skoda Octavia",
+        "image": "/car10.png",
+        "year": "2022",
+        "price": "850",
+        "type": "Orta",
+        "fuel": "Benzin",
+        "vites": "Manuel"
+      },
+      {
+        "name": "Volkswagen Passat",
+        "image": "/car11.png",
+        "year": "2022",
+        "price": "850",
+        "type": "Orta",
+        "fuel": "Benzin",
+        "vites": "Otomatik"
+      },
+      {
+        "name": "Volkswagen Jetta",
+        "image": "/car12.png",
+        "year": "2022",
+        "price": "850",
+        "type": "Orta",
+        "fuel": "Dizel",
+        "vites": "Manuel"
+      },
+      {
+        "name": "Citroen C5",
+        "image": "/car13.png",
+        "year": "2022",
+        "price": "900",
+        "type": "Orta",
+        "fuel": "Benzin",
+        "vites": "Manuel"
+      },
+      {
+        "name": "Dacia Duster",
+        "image": "/car14.png",
+        "year": "2022",
+        "price": "900",
+        "type": "Orta",
+        "fuel": "Dizel",
+        "vites": "Manuel"
+      },
+      {
+        "name": "Peugeot 5008",
+        "image": "/car15.png",
+        "year": "2022",
+        "price": "900",
+        "type": "Orta",
+        "fuel": "Benzin",
+        "vites": "Otomatk"
+      },
+      {
+        "name": "Peugeot 2008",
+        "image": "/car16.png",
+        "year": "2022",
+        "price": "900",
+        "type": "Orta",
+        "fuel": "Benzin",
+        "vites": "Otomatik"
+      },
+      {
+        "name": "Peugeot 3008",
+        "image": "/car17.png",
+        "year": "2022",
+        "price": "900",
+        "type": "Orta",
+        "fuel": "Benzin",
+        "vites": "Manuel"
+      }
+    ],
+    "exp": [
+      {
+        "name": "BMW X1",
+        "image": "/car18.png",
+        "year": "2022",
+        "price": "1100",
+        "type": "Lüx",
+        "fuel": "Benzin",
+        "vites": "Otomatik"
+      },
+      {
+        "name": "BMW X2",
+        "image": "/car19.png",
+        "year": "2022",
+        "price": "1100",
+        "type": "Lüx",
+        "fuel": "Benzin",
+        "vites": "Otomatik"
+      },
+      {
+        "name": "Audi Q2",
+        "image": "/car20.png",
+        "year": "2022",
+        "price": "1100",
+        "type": "Lüx",
+        "fuel": "Benzin",
+        "vites": "Otomatik"
+      },
+      {
+        "name": "Audi Q3",
+        "image": "/car21.png",
+        "year": "2022",
+        "price": "1100",
+        "type": "Lüx",
+        "fuel": "Benzin",
+        "vites": "Otomatik"
+      },
+      {
+        "name": "Mercedes CLA 180",
+        "image": "/car22.png",
+        "year": "2022",
+        "price": "1300",
+        "type": "Lüx",
+        "fuel": "Benzin",
+        "vites": "Otomatik"
+      },
+      {
+        "name": "BMW 3.20",
+        "image": "/car23.png",
+        "year": "2022",
+        "price": "1500",
+        "type": "Lüx",
+        "fuel": "Benzin",
+        "vites": "Otomatik"
+      },
+      {
+        "name": "BMW 5.20",
+        "image": "/car24.png",
+        "year": "2022",
+        "price": "1500",
+        "type": "Lüx",
+        "fuel": "Benzin",
+        "vites": "Otomatik"
+      },
+      {
+        "name": "Audi A3",
+        "image": "/car25.png",
+        "year": "2022",
+        "price": "1500",
+        "type": "Lüx",
+        "fuel": "Benzin",
+        "vites": "Otomatik"
+      },
+      {
+        "name": "Audi A5",
+        "image": "/car26.png",
+        "year": "2022",
+        "price": "1500",
+        "type": "Lüx",
+        "fuel": "Benzin",
+        "vites": "Otomatik"
+      },
+      {
+        "name": "BMW 7.40",
+        "image": "/car27.png",
+        "year": "2022",
+        "price": "1600",
+        "fuel": "Benzin",
+        "vites": "Otomatik"
+      },
+      {
+        "name": "Mercedes E200",
+        "image": "/car28.png",
+        "year": "2022",
+        "price": "1600",
+        "type": "Lüx",
+        "fuel": "Benzin",
+        "vites": "Otomatik"
+      },
+      {
+        "name": "Range Rover",
+        "image": "/car29.png",
+        "year": "2022",
+        "price": "1800",
+        "type": "Lüx",
+        "fuel": "Benzin",
+        "vites": "Otomatik"
+      },
+      {
+        "name": "Porsche 911 Carrera",
+        "image": "/car30.png",
+        "year": "2022",
+        "price": "2400",
+        "type": "Lüx",
+        "fuel": "Benzin",
+        "vites": "Otomatik"
+      }
+    ]
+  }
+]

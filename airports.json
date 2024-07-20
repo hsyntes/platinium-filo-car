@@ -1,0 +1,712 @@
+[
+  {
+    "city": "Adana",
+    "airport": [
+      {
+        "id": "1-airport",
+        "name": "Adana Şakirpaşa Airport",
+        "map": "pb=!1m18!1m12!1m3!1d1159.8056432653034!2d35.29639462489167!3d36.985019502447656!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x152887dcf024b871%3A0xdd0a802dfe2a6fb5!2zU2FraXJwYcWfYSBIYXZhbGltYW7EsSBBZGFuYSAtIMSww6cgSGF0bGFy!5e0!3m2!1str!2str!4v1721165636160!5m2!1str!2str"
+      },
+      {
+        "id": "2-airport",
+        "name": "Adana Airport",
+        "map": "pb=!1m18!1m12!1m3!1d632.387025619764!2d35.296792263120864!3d36.985199784962234!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x15288615ee1d4c15%3A0x3d3a00c7726ca168!2sAdana%20DHMI%20Havaliman%C4%B1!5e0!3m2!1str!2str!4v1721165971801!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Ankara",
+    "airport": [
+      {
+        "id": "3-airport",
+        "name": "Esenboğa Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3051.2269398007206!2d32.990098376718!3d40.1149457714898!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40820fdad0c982a9%3A0xf13ed2bab75c76d6!2sAnkara%20Esenbo%C4%9Fa%20Havaliman%C4%B1!5e0!3m2!1str!2str!4v1721166872370!5m2!1str!2str"
+      },
+      {
+        "id": "4-airport",
+        "name": "Güvercinlik Airport",
+        "map": "pb=!1m18!1m12!1m3!1d1566302.6024318547!2d30.501259267180156!3d39.93725649999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a525d0065019b3b%3A0xe7b833f9975fdb92!2sG%C3%BCvercinlik%20Havaalan%C4%B1!5e0!3m2!1str!2str!4v1721166997923!5m2!1str!2str"
+      },
+      {
+        "id": "5-airport",
+        "name": "Etimesgut Airport",
+        "map": "pb=!1m18!1m12!1m3!1d782932.1749679728!2d31.528161846875005!3d39.95640069999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14d337c01815eaed%3A0x480c192d2746e399!2sEtimesgut%20hava%20alan%C4%B1!5e0!3m2!1str!2str!4v1721167228406!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Antalya",
+    "airport": [
+      {
+        "id": "6-airport",
+        "name": "Antalya Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3190.000130574079!2d30.801065676598288!3d36.91426127221488!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14c384778d617c9d%3A0xc17cdcfcdb48e8fa!2sAntalya%20Havaliman%C4%B1!5e0!3m2!1str!2str!4v1721167299649!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Alanya",
+    "airport": [
+      {
+        "id": "7-airport",
+        "name": "Gazipaşa Airport",
+        "map": "pb=!1m18!1m12!1m3!1d6585579.729005563!2d23.072922574999982!3d36.297388000000005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14dc8b05a5b05e4f%3A0xa9a6f68e7b22b866!2sGazipa%C5%9Fa%20-%20Alanya%20Havaliman%C4%B1%20(GZP)!5e0!3m2!1str!2str!4v1721167449185!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Balıkesir",
+    "airport": [
+      {
+        "id": "8-airport",
+        "name": "Balıkesir Koca Seyit Airport",
+        "map": "pb=!1m18!1m12!1m3!1d787581.7562514776!2d25.86009979248047!3d39.54852980171147!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14b0b7a0d9691889%3A0x5bfd10a24942a6a9!2zRGhtaSBCYWzEsWtlc2lyIEvDtnJmZXogSGF2YWxhbsSxIMSww6cgSGF0bGFyIEdlbGnFnw!5e0!3m2!1str!2str!4v1721167560578!5m2!1str!2str"
+      },
+      {
+        "id": "9-airport",
+        "name": "Balıkesir Merkez Airport",
+        "map": "pb=!1m18!1m12!1m3!1d786590.7639727002!2d26.762427646874993!3d39.63575530000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14b70080584aee1d%3A0x15009c8d7d33f8cc!2sBal%C4%B1kesir%20Merkez%20Havaliman%C4%B1!5e0!3m2!1str!2str!4v1721167606185!5m2!1str!2str"
+      },
+      {
+        "id": "10-airport",
+        "name": "Bandırma Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3041.910227498782!2d27.974952376726005!3d40.32214987145492!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14b5d47c0812aea1%3A0x4b82d7841d3c1e8f!2sBand%C4%B1rma%20Airport!5e0!3m2!1str!2str!4v1721169540811!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Bursa",
+    "airport": [
+      {
+        "id": "11-airport",
+        "name": "Yenişehir Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3044.8757856761226!2d29.5408703767234!3d40.25629177146577!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cbb04a0b1ce973%3A0x8ce4714b4a9af304!2sBursa%20Yeni%C5%9Fehir%20Havaliman%C4%B1!5e0!3m2!1str!2str!4v1721167720893!5m2!1str!2str"
+      },
+      {
+        "id": "12-airport",
+        "name": "Bursa Yunuseli Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3046.0286564489566!2d29.008787576722444!3d40.23066507147003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ca15afbb6e3e27%3A0x9b6ed56479c8b7c2!2sYunuseli%20Havaliman%C4%B1!5e0!3m2!1str!2str!4v1721167758316!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Çanakkale",
+    "airport": [
+      {
+        "id": "13-airport",
+        "name": "Çanakkale Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3050.1448276218225!2d26.421095176719035!3d40.139057571485736!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14b10765de565285%3A0xebf50175940cdc5a!2zREhNxLAgw4dhbmFra2FsZSBIYXZhbGltYW7EsQ!5e0!3m2!1str!2str!4v1721169658353!5m2!1str!2str"
+      },
+      {
+        "id": "14-airport",
+        "name": "Gökçeada Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3047.4363887818695!2d25.882734576721383!3d40.19935477147544!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14b1cda832e41fab%3A0x43a2d80cf960d0b8!2zR8O2a8OnZWFkYSBIYXZhbGltYW7EsSAoR0tEKQ!5e0!3m2!1str!2str!4v1721169731926!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Denizli",
+    "airport": [
+      {
+        "id": "15-airport",
+        "name": "Çardak Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3153.6857955604655!2d29.68781327662963!3d37.77396497198547!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14c6ee707e550963%3A0x7ef8a457dcec2fb8!2sDenizli%20%C3%87ardak%20Havaliman%C4%B1%20(DNZ)!5e0!3m2!1str!2str!4v1721169818981!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Diyarbakır",
+    "airport": [
+      {
+        "id": "16-airport",
+        "name": "Diyarbakır Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3148.277778056171!2d40.18174277663422!3d37.90056947195387!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x407521e20b5c1c97%3A0x79e558349413f480!2sDiyarbak%C4%B1r%20Havaliman%C4%B1!5e0!3m2!1str!2str!4v1721169905049!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Elazığ",
+    "airport": [
+      {
+        "id": "17-airport",
+        "name": "Elazığ Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3118.1093639625215!2d39.265354076660365!3d38.60035297178896!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x407696177fe7955d%3A0x92f783b3b8cce718!2zRWxhesSxxJ8gSGF2YWxpbWFuxLE!5e0!3m2!1str!2str!4v1721169959463!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Erzurum",
+    "airport": [
+      {
+        "id": "18-airport",
+        "name": "Erzurum Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3058.10196791042!2d41.176682776712084!3d39.96147287151643!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406e58180f079ddb%3A0xd9e29ab914fcc5c6!2sErzurum%20Havaliman%C4%B1!5e0!3m2!1str!2str!4v1721170048805!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Eskişehir",
+    "airport": [
+      {
+        "id": "19-airport",
+        "name": "Hasan Polatkan Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3064.748710824348!2d30.525779576706437!3d39.81262817154309!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cc3fd566b5202b%3A0x65d321dbc79fada2!2sHasan%20Polatkan%20Havaliman%C4%B1!5e0!3m2!1str!2str!4v1721170133427!5m2!1str!2str"
+      },
+      {
+        "id": "20-airport",
+        "name": "Sivrihisar Havacılık Merkezi S.H.M.",
+        "map": "pb=!1m18!1m12!1m3!1d3087.6130266743626!2d31.48354437668666!3d39.297025671641535!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cdfd073d852337%3A0xd2f34784f222f435!2sSivrihisar%20Havac%C4%B1l%C4%B1k%20Merkezi!5e0!3m2!1str!2str!4v1721170175545!5m2!1str!2str"
+      },
+      {
+        "id": "21-airport",
+        "name": "Eskişehir Hava Üssü",
+        "map": "pb=!1m18!1m12!1m3!1d3080.7105969262943!2d31.357963176692536!3d39.453272671610705!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cde5f8b091ce37%3A0xef4cce90a2a7fb14!2ssivrihisar%20hava%20meydan%20komutanl%C4%B1%C4%9F%C4%B1!5e0!3m2!1str!2str!4v1721170225847!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Gaziantep",
+    "airport": [
+      {
+        "id": "22-airport",
+        "name": "Gaziantep Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3188.7731075928377!2d37.47380117659943!3d36.94358877220661!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1531dd3239fda6c3%3A0x50c2b5569694fe80!2sGaziantep%20Havaliman%C4%B1%20(GZT)!5e0!3m2!1str!2str!4v1721170338176!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Hatay",
+    "airport": [
+      {
+        "id": "23-airport",
+        "name": "Hatay Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3212.8640947452386!2d36.27897177657864!3d36.36407067237464!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x15258d4442bbbc99%3A0x96ced3cbaef571fe!2sHatay%20Uluslararas%C4%B1%20Havaliman%C4%B1!5e0!3m2!1str!2str!4v1721170390323!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Isparta",
+    "airport": [
+      {
+        "id": "24-airport",
+        "name": "Isparta Süleyman Demirel Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3150.0624742984387!2d30.36286358885498!3d37.858828599999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14c5ce6b745cfdc3%3A0xc3f00a35a440c493!2sIsparta%20S%C3%BCleyman%20Demirel%20Havaliman%C4%B1%20(ISE)!5e0!3m2!1str!2str!4v1721170438333!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Istanbul",
+    "airport": [
+      {
+        "id": "25-airport",
+        "name": "Sabiha Gökçen Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3015.3296103574594!2d29.31259127674905!3d40.908518271364755!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cadbcbf424a153%3A0xacefca4d8098da74!2zxLBzdGFuYnVsIFNhYmloYSBHw7Zrw6dlbiBIYXZhbGltYW7EsQ!5e0!3m2!1str!2str!4v1721170512182!5m2!1str!2str"
+      },
+      {
+        "id": "26-airport",
+        "name": "Istanbul Airport",
+        "map": "pb=!1m18!1m12!1m3!1d767608.9752123599!2d27.57657524687499!3d41.27681870000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x409ffff60abc95a9%3A0x380ce02cc824e506!2zxLBzdGFuYnVsIEhhdmFsaW1hbsSx!5e0!3m2!1str!2str!4v1721170562082!5m2!1str!2str"
+      },
+      {
+        "id": "27-airport",
+        "name": "Istanbul Hezarfen Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3006.4431415100935!2d28.547889776756634!3d41.10301207133741!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14b55bb6a36430f7%3A0x5ebc658a4d81793a!2sHezarfen%20Havaalan%C4%B1!5e0!3m2!1str!2str!4v1721170611832!5m2!1str!2str"
+      },
+      {
+        "id": "28-airport",
+        "name": "Samandıra Hava Üssü",
+        "map": "pb=!1m18!1m12!1m3!1d3011.479780474874!2d29.213514176752213!3d40.99287087135262!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cacfcb04bb9169%3A0x273da7e22d08bdaa!2zU2FtYW5kxLFyYSBIYXZhIMOcc3PDvA!5e0!3m2!1str!2str!4v1721170649920!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Izmir",
+    "airport": [
+      {
+        "id": "29-airport",
+        "name": "Adnan Menderes Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3131.4604965395397!2d27.146364876648846!3d38.29199727185948!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14bbe03e042d3037%3A0xa08bfdd9d58f6448!2sAdnan%20Menderes%20Havaliman%C4%B1!5e0!3m2!1str!2str!4v1721170841451!5m2!1str!2str"
+      },
+      {
+        "id": "30-airport",
+        "name": "Selçuk-Efes Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3146.1847112194855!2d27.33521617663606!3d37.949472871941936!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14bead3321a33b87%3A0x72be578342fcb732!2sSel%C3%A7uk%20Efes%20Havaliman%C4%B1%20(IZM)!5e0!3m2!1str!2str!4v1721170878936!5m2!1str!2str"
+      },
+      {
+        "id": "31-airport",
+        "name": "Çiğli Hava Üssü",
+        "map": "pb=!1m18!1m12!1m3!1d3121.883486516914!2d27.023460076656953!3d38.513397971808516!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14bbd066b60ff0e9%3A0xde0901465a0eb40c!2zw4dpxJ9saSAyLkhhdmEgQW5hIEpldCDDnHNzw7w!5e0!3m2!1str!2str!4v1721170935329!5m2!1str!2str"
+      },
+      {
+        "id": "32-airport",
+        "name": "Kaklıç Hava Üssü",
+        "map": "pb=!1m18!1m12!1m3!1d3121.883486516914!2d27.023460076656953!3d38.513397971808516!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14bbd066b60ff0e9%3A0xde0901465a0eb40c!2zw4dpxJ9saSAyLkhhdmEgQW5hIEpldCDDnHNzw7w!5e0!3m2!1str!2str!4v1721170971364!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Kars",
+    "airport": [
+      {
+        "id": "33-airport",
+        "name": "Kars Harakani Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3030.892330610072!2d43.107919776735635!3d40.56605487141606!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4069888ba5175441%3A0x7756ab99be5865e6!2sKars%20Harakani%20Havaliman%C4%B1%20(KSY)!5e0!3m2!1str!2str!4v1721171079803!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Kayseri",
+    "airport": [
+      {
+        "id": "34-airport",
+        "name": "Erkilet Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3110.940557220747!2d35.481763476666536!3d38.765067371752615!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x152b13d9b6eae86b%3A0xe4b3482b7c61f0f9!2sKayseri%20Havaliman%C4%B1!5e0!3m2!1str!2str!4v1721171130175!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Kocaeli",
+    "airport": [
+      {
+        "id": "35-airport",
+        "name": "Cengiz Topel Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3023.0534279655844!2d30.094691876742193!3d40.73884987138955!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cb5713a4ed249b%3A0x559e7ed3b33ec08a!2sKocaeli%20Cengiz%20Topel%20Havaliman%C4%B1%20(KCO)!5e0!3m2!1str!2str!4v1721171183818!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Konya",
+    "airport": [
+      {
+        "id": "36-airport",
+        "name": "Konya Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3144.660612908472!2d32.57427897663745!3d37.98504897193323!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14d09253eb2debcd%3A0xd92f69841acfb35f!2sKonya%20Havaliman%C4%B1!5e0!3m2!1str!2str!4v1721171232677!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Kütahya",
+    "airport": [
+      {
+        "id": "37-airport",
+        "name": "Zafer Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3095.5389395793122!2d30.129983376679903!3d39.11696587167805!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14c92b13a0ce2b8d%3A0x9c0d4f103b793caf!2sZafer%20Havaliman%C4%B1!5e0!3m2!1str!2str!4v1721171313386!5m2!1str!2str"
+      },
+      {
+        "id": "38-airport",
+        "name": "Kütahya Hava Üssü",
+        "map": "pb=!1m18!1m12!1m3!1d3082.482997901092!2d30.019852476691003!3d39.41320117161846!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14c949b51d948457%3A0x7005594542019a66!2zS8O8dGFoeWEgSGF2YSBFciBFxJ9pdGltIFR1Z2F5IEtvbXV0YW5sxLHEn8Sx!5e0!3m2!1str!2str!4v1721171344405!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Malatya",
+    "airport": [
+      {
+        "id": "39-airport",
+        "name": "Malatya Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3125.0853535607744!2d38.10015678885499!3d38.439497400000015!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4077c9248874840d%3A0xfc44e0851425c602!2sMalatya%20Havaliman%C4%B1%20(MLX)!5e0!3m2!1str!2str!4v1721171488153!5m2!1str!2str"
+      },
+      {
+        "id": "40-airport",
+        "name": "Malatya Tulga Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3128.608995031199!2d38.25735737665142!3d38.35803107184422!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x407635afafe5e955%3A0xf85b85bd9afb69d8!2sMalatya%20Tulga%20Havaalan%C4%B1%20LTAO!5e0!3m2!1str!2str!4v1721171522044!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Muğla",
+    "airport": [
+      {
+        "id": "41-airport",
+        "name": "Dalaman Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3198.1844780379165!2d28.7907422765912!3d36.71813047227062!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14c0715d8f83456f%3A0xcaf246be6efae4da!2sDalaman%20Havaliman%C4%B1!5e0!3m2!1str!2str!4v1721171562672!5m2!1str!2str"
+      },
+      {
+        "id": "42-airport",
+        "name": "Imsık Airport",
+        "map": "pb=!1m18!1m12!1m3!1d1628480.8122374008!2d25.358900093750005!3d37.137798000000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14be5b4d19c9a129%3A0x42b65840c54bbd4c!2sBodrum-Imsik%20Airport!5e0!3m2!1str!2str!4v1721171596773!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Nevşehir",
+    "airport": [
+      {
+        "id": "43-airport",
+        "name": "Nevşehir Kapadokya Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3110.639628417781!2d34.52197717666685!3d38.77196877175113!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x152a786dba48d567%3A0xc24176cac8c928e9!2sNev%C5%9Fehir%20Kapadokya%20Havaliman%C4%B1%20(NAV)!5e0!3m2!1str!2str!4v1721171709385!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Ordu",
+    "airport": [
+      {
+        "id": "44-airport",
+        "name": "Ordu-Giresun Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3012.814117285713!2d38.076894676751174!3d40.96365077135677!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406319d5447d628f%3A0x20164a8c65dabf8b!2sOrdu-Giresun%20Havaliman%C4%B1%20(OGU)!5e0!3m2!1str!2str!4v1721171774282!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Giresun",
+    "airport": [
+      {
+        "id": "45-airport",
+        "name": "Ordu-Giresun Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3012.814117285713!2d38.076894676751174!3d40.96365077135677!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406319d5447d628f%3A0x20164a8c65dabf8b!2sOrdu-Giresun%20Havaliman%C4%B1%20(OGU)!5e0!3m2!1str!2str!4v1721171774282!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Rize",
+    "airport": [
+      {
+        "id": "46-airport",
+        "name": "Rize-Artvin Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3003.169156662523!2d40.842522976759334!3d41.174477571327635!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40661970f0a51c2f%3A0x3bdcce52c3c4ea0!2sRize%20Havaliman%C4%B1!5e0!3m2!1str!2str!4v1721171835690!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Artvin",
+    "airport": [
+      {
+        "id": "47-airport",
+        "name": "Rize-Artvin Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3003.169156662523!2d40.842522976759334!3d41.174477571327635!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40661970f0a51c2f%3A0x3bdcce52c3c4ea0!2sRize%20Havaliman%C4%B1!5e0!3m2!1str!2str!4v1721171835690!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Samsun",
+    "airport": [
+      {
+        "id": "48-airport",
+        "name": "Samsun-Çarşamba Airport",
+        "map": "pb=!1m18!1m12!1m3!1d2999.354867975939!2d36.55266767676261!3d41.257608671316596!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40880b6802d0abbd%3A0xe0adf61a450c2c78!2sSamsun%20%C3%87ar%C5%9Famba%20Havaliman%C4%B1%20(SZF)!5e0!3m2!1str!2str!4v1721172782856!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Sinop",
+    "airport": [
+      {
+        "id": "49-airport",
+        "name": "Sinop Airport",
+        "map": "pb=!1m18!1m12!1m3!1d2964.0847643830675!2d35.07983007679309!3d42.01991397122658!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x408f72a4115f15b3%3A0xf8a10b936cb3734!2sSinop%20Havaliman%C4%B1%20(NOP)!5e0!3m2!1str!2str!4v1721172810777!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Sivas",
+    "airport": [
+      {
+        "id": "50-airport",
+        "name": "Sivas Nuri Demirağ Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3065.213653236537!2d36.89002777670587!3d39.802199071545004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x407ea85810927f39%3A0x218b9480d8991070!2sSivas%20Nuri%20Demira%C4%9F%20Havaliman%C4%B1%20(VAS)!5e0!3m2!1str!2str!4v1721172842086!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Tekirdağ",
+    "airport": [
+      {
+        "id": "51-airport",
+        "name": "Tekirdağ Çorlu Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3005.3268548585334!2d27.90740207675756!3d41.1273901713342!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14b4e1c5a74ba153%3A0xa516df9273a6f502!2zREhNxLAgVGVraXJkYcSfIMOHb3JsdSBIYXZhbGltYW7EsSAoVEVRKQ!5e0!3m2!1str!2str!4v1721172874444!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Trabzon",
+    "airport": [
+      {
+        "id": "52-airport",
+        "name": "Trabzon Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3011.378541102378!2d39.7774275767523!3d40.9950871713524!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40643b9d271b08fb%3A0x7df292f5eedabe39!2sTrabzon%20Uluslararas%C4%B1%20Havaliman%C4%B1!5e0!3m2!1str!2str!4v1721172909938!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Uşak",
+    "airport": [
+      {
+        "id": "53-airport",
+        "name": "Uşak Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3114.663045925634!2d29.479013276663373!3d38.67961127177134!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14c8811b1bfee649%3A0x64b27a758d8c5006!2zVcWfYWsgSGF2YWxpbWFuxLE!5e0!3m2!1str!2str!4v1721172946190!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Van",
+    "airport": [
+      {
+        "id": "54-airport",
+        "name": "Van Ferit Melen Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3123.813272891633!2d43.33500467665542!3d38.468871971818864!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4012773551922097%3A0xd1ee699bb1c305aa!2sVan%20Ferit%20Melen%20Havaliman%C4%B1%20(VAN)!5e0!3m2!1str!2str!4v1721172993560!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Zonguldak",
+    "airport": [
+      {
+        "id": "55-airport",
+        "name": "Zonguldak Airport",
+        "map": "pb=!1m18!1m12!1m3!1d2987.882013311008!2d32.087883676772606!3d41.506831571284955!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x409b7e7d4504b6f1%3A0x9953f0df517b3590!2sZonguldak%20Havaliman%C4%B1!5e0!3m2!1str!2str!4v1721173027085!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Adıyaman",
+    "airport": [
+      {
+        "id": "56-airport",
+        "name": "Adıyaman Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3155.2822640332315!2d38.46761237662844!3d37.73652177199505!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x153313a463aba78f%3A0xbe67e0bf7ecb6f44!2sAd%C4%B1yaman%20Havaliman%C4%B1%20(ADF)!5e0!3m2!1str!2str!4v1721173071015!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Ağrı",
+    "airport": [
+      {
+        "id": "57-airport",
+        "name": "Ağrı Ahmed-i Hani Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3071.784225743546!2d43.01829807670029!3d39.65457037157239!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406c8510fd9c42cb%3A0x38231b853d789872!2zQcSfcsSxIEFobWVkLWkgSGFuaSBIYXZhbGltYW7EsQ!5e0!3m2!1str!2str!4v1721173106915!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Amasya",
+    "airport": [
+      {
+        "id": "58-airport",
+        "name": "Amasya Merzifon Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3019.00177082406!2d35.50095077674589!3d40.82792477137646!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4087048b9622d483%3A0xc4b41104add57c21!2sAmasya%20Merzifon%20Havaliman%C4%B1!5e0!3m2!1str!2str!4v1721173150361!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Aydın",
+    "airport": [
+      {
+        "id": "59-airport",
+        "name": "Aydın Çıldır Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3151.8317442317593!2d27.88887167663121!3d37.817409871974625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14b92ace1386ad71%3A0x5b94408cf34f5108!2zQXlkxLFuIMOHxLFsZMSxciBIYXZhYWxhbsSx!5e0!3m2!1str!2str!4v1721173186382!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Batman",
+    "airport": [
+      {
+        "id": "60-airport",
+        "name": "Batman Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3146.326533001053!2d41.118332376636026!3d37.9461609719425!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x400b47d32ec6d24d%3A0xd5aaefd4473c35c8!2sBatman%20Havaliman%C4%B1%20(BAL)!5e0!3m2!1str!2str!4v1721173644857!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Bingöl",
+    "airport": [
+      {
+        "id": "61-airport",
+        "name": "Bingöl Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3106.85814295831!2d40.588096476670124!3d38.85860407173236!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4073c8c481de0917%3A0x646283a9460f91c6!2zQmluZ8O2bCBIYXZhbGltYW7EsQ!5e0!3m2!1str!2str!4v1721173676114!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Erzincan",
+    "airport": [
+      {
+        "id": "62-airport",
+        "name": "Erzincan Yıldırım Akbulut Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3068.9954452598017!2d39.51866247670269!3d39.717285071560724!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x407072ba21214f1b%3A0xd2db4a4dbb9eed06!2zRXJ6aW5jYW4gWcSxbGTEsXLEsW0gQWtidWx1dCBIYXZhbGltYW7EsQ!5e0!3m2!1str!2str!4v1721173708813!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Hakkari",
+    "airport": [
+      {
+        "id": "63-airport",
+        "name": "Hakkâri Yüksekova Selahaddin Eyyubi Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3163.367461334813!2d44.253110076621184!3d37.54640547204395!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x400f962ac4e46e37%3A0x13d03b050b84454!2zSGFra8OicmkgWcO8a3Nla292YSBTZWxhaGFkZGluIEV5ecO7YsOuIEhhdmFsaW1hbsSx!5e0!3m2!1str!2str!4v1721173743792!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Iğdır",
+    "airport": [
+      {
+        "id": "64-airport",
+        "name": "Iğdır Şehit Bülent Aydın Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3057.2469119268303!2d43.877034476712936!3d39.980587171513015!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406b1e85a3cb048f%3A0x91fbf71d1fddbfa5!2zScSfZMSxciDFnmVoaXQgQsO8bGVudCBBeWTEsW4gSGF2YWxpbWFuxLEgKElHRCk!5e0!3m2!1str!2str!4v1721174045761!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Kahramanmaraş",
+    "airport": [
+      {
+        "id": "65-airport",
+        "name": "Kahramanmaraş Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3163.793539261949!2d36.956766276620925!3d37.536363872046415!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x152de75815ae170f%3A0x39dc31c810b935c8!2sKahramanmara%C5%9F%20Uluslararas%C4%B1%20Havaliman%C4%B1!5e0!3m2!1str!2str!4v1721174004861!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Kastamonu",
+    "airport": [
+      {
+        "id": "66-airport",
+        "name": "Kastamonu Airport",
+        "map": "pb=!1m18!1m12!1m3!1d2996.6386774184343!2d33.797503576765074!3d41.31672337130892!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4084f668d884149d%3A0xb15dd6b6ad13cf56!2sKastamonu%20Havaliman%C4%B1!5e0!3m2!1str!2str!4v1721173961054!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Mardin",
+    "airport": [
+      {
+        "id": "67-airport",
+        "name": "Mardin Prof. Dr. Aziz Sancar Ariport",
+        "map": "pb=!1m18!1m12!1m3!1d3176.5691124824557!2d40.63496367661006!3d37.234202572126605!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x400a8039b0200679%3A0x18c3e430e64634f6!2sMardin%20Prof.%20Dr.%20Aziz%20SANCAR%20Havaliman%C4%B1!5e0!3m2!1str!2str!4v1721173927540!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Muş",
+    "airport": [
+      {
+        "id": "68-airport",
+        "name": "Muş Airport",
+        "map": "pb=!1m18!1m12!1m3!1d12444.31251634849!2d41.61384145541994!3d38.76191200000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4072e97a39585877%3A0x9b9a2620c2925d03!2zTXXFnyBIYXZhYWxhbsSx!5e0!3m2!1str!2str!4v1721173875495!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Siirt",
+    "airport": [
+      {
+        "id": "69-airport",
+        "name": "Siirt Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3144.949708166779!2d41.83962417663737!3d37.978302971934845!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x400c859f3a21ecb3%3A0xb0b3ebe50e07838a!2sSiirt%20Havaliman%C4%B1%20(SXZ)!5e0!3m2!1str!2str!4v1721173838527!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Şırnak",
+    "airport": [
+      {
+        "id": "70-airport",
+        "name": "Şırnak Şerafettin Elçi Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3171.1910876889087!2d42.052876876614505!3d37.36165517209236!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x400bd88d5cc38931%3A0xc0e5e24342d2ff81!2zxZ7EsXJuYWsgxZ5lcmFmZXR0aW4gRWzDp2kgQWlycG9ydA!5e0!3m2!1str!2str!4v1721173807002!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Tokat",
+    "airport": [
+      {
+        "id": "71-airport",
+        "name": "Tokat Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3042.105008868873!2d36.37884987672587!3d40.31782697145573!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x407dc733078eac25%3A0xdbc81db366561472!2sTokat%20Havaliman%C4%B1%20(TJK)!5e0!3m2!1str!2str!4v1721173779575!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Afyonkarahisar",
+    "airport": [
+      {
+        "id": "72-airport",
+        "name": "Afyonkarahisar Airport",
+        "map": "pb=!1m18!1m12!1m3!1d49781.708934735194!2d30.468416521679703!3d38.755519499999984!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cf17d1e392fd21%3A0x4bc148eb089170e5!2sAfyon%20Havaalan%C4%B1%20Transfer!5e0!3m2!1str!2str!4v1721173598978!5m2!1str!2str"
+      },
+      {
+        "id": "81-airport",
+        "name": "Mürted Hava Üssü",
+        "map": "pb=!1m18!1m12!1m3!1d3112.7861512069!2d30.59114367666499!3d38.72271847176187!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cf16e90f4a244f%3A0x4ef056ec9c86c242!2zQWZ5b24gSGF2YSBNZXlkYW4gS29tdXRhbmzEscSfxLE!5e0!3m2!1str!2str!4v1721167138561!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Edirne",
+    "airport": [
+      {
+        "id": "73-airport",
+        "name": "Keşan Hava Üssü",
+        "map": "pb=!1m18!1m12!1m3!1d3020.855993145781!2d26.60423547674419!3d40.787179971382315!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14b3cf808d6f46c5%3A0x523a9b15ddd790f!2zS2XFn2FuIEhhdmFhbGFuxLE!5e0!3m2!1str!2str!4v1721173554798!5m2!1str!2str"
+      },
+      {
+        "id": "74-airport",
+        "name": "Edirne-Kırklareli Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3005.3268548585334!2d27.90740207675756!3d41.1273901713342!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14b4e1c5a74ba153%3A0xa516df9273a6f502!2zREhNxLAgVGVraXJkYcSfIMOHb3JsdSBIYXZhbGltYW7EsSAoVEVRKQ!5e0!3m2!1str!2str!4v1721173525464!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Manisa",
+    "airport": [
+      {
+        "id": "75-airport",
+        "name": "Akhisar Hava Üssü",
+        "map": "pb=!1m18!1m12!1m3!1d3108.822475673506!2d27.840125576668378!3d38.813620771742116!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14b9cb13af51e3ff%3A0x747ff26d11c5a1e8!2sAkhisar%20Hava%20Meydan%20Komutanl%C4%B1%C4%9F%C4%B1!5e0!3m2!1str!2str!4v1721173495229!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Yalova",
+    "airport": [
+      {
+        "id": "76-airport",
+        "name": "Yalova Hava Üssü",
+        "map": "pb=!1m18!1m12!1m3!1d3025.567976695909!2d29.364082176740087!3d40.683487071397984!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cae3ce76f6cf47%3A0x4847f7f4fe90af39!2syalova%20hava%20liman%C4%B1!5e0!3m2!1str!2str!4v1721173466481!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Gümüşhane",
+    "airport": [
+      {
+        "id": "77-airport",
+        "name": "Gümüşhane-Bayburt Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3046.735084452618!2d39.78304587672181!3d40.21495547147286!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406542b792ce2867%3A0xda4441332da0c24f!2zR8O8bcO8xZ9oYW5lIEJheWJ1cnQgSGF2YWFsYW7EsQ!5e0!3m2!1str!2str!4v1721173387582!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Bayburt",
+    "airport": [
+      {
+        "id": "78-airport",
+        "name": "Gümüşhane-Bayburt Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3046.735084452618!2d39.78304587672181!3d40.21495547147286!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406542b792ce2867%3A0xda4441332da0c24f!2zR8O8bcO8xZ9oYW5lIEJheWJ1cnQgSGF2YWFsYW7EsQ!5e0!3m2!1str!2str!4v1721173387582!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Mersin",
+    "airport": [
+      {
+        "id": "79-airport",
+        "name": "Çukurova Uluslararası Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3190.4162729005147!2d35.066047376597865!3d36.90431037221767!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1527d702f7e8eafd%3A0x3c3cfde1887bd72a!2s%C3%87ukurova%20Uluslararas%C4%B1%20Havaliman%C4%B1!5e0!3m2!1str!2str!4v1721173291627!5m2!1str!2str"
+      }
+    ]
+  },
+  {
+    "city": "Yozgat",
+    "airport": [
+      {
+        "id": "80-airport",
+        "name": "Yozgat Airport",
+        "map": "pb=!1m18!1m12!1m3!1d3061.329532311423!2d34.97582507670939!3d39.88925377152932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40807f778fcaf01f%3A0x30180c149407421f!2sYozgat%20Havaliman%C4%B1!5e0!3m2!1str!2str!4v1721173227342!5m2!1str!2str"
+      }
+    ]
+  }
+]
