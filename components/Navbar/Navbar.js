@@ -1,3 +1,4 @@
+import { useRouter } from "next/router";
 import { useState } from "react";
 import { IconMenu2, IconX } from "@tabler/icons-react";
 import logo from "./logo.png";
@@ -5,7 +6,12 @@ import Image from "next/image";
 import MobileNavbar from "./MobileNavbar/MobileNavbar";
 
 function Navbar() {
+  const router = useRouter();
   const [nav, setNav] = useState(false);
+
+  const { pathname } = router;
+
+  console.log("pathname: ", pathname);
 
   const openNav = () => {
     setNav(!nav);
@@ -44,17 +50,39 @@ function Navbar() {
               </a>
             </li>
             <li>
-              <a className="models-link" href="/subeler">
+              <a
+                className="models-link"
+                href="/subeler"
+                style={
+                  pathname === "/subeler" ? { color: "#ff4d30" } : { undefined }
+                }
+              >
                 Şubeler
               </a>
             </li>
             <li>
-              <a className="models-link" href="/kurumsal">
+              <a
+                className="models-link"
+                href="/kurumsal"
+                style={
+                  pathname === "/kurumsal"
+                    ? { color: "#ff4d30" }
+                    : { undefined }
+                }
+              >
                 Kurumsal Kiralama
               </a>
             </li>
             <li>
-              <a className="models-link" href="/kosullar">
+              <a
+                className="models-link"
+                href="/kosullar"
+                style={
+                  pathname === "/kosullar"
+                    ? { color: "#ff4d30" }
+                    : { undefined }
+                }
+              >
                 Kiralama Koşulları
               </a>
             </li>
