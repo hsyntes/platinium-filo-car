@@ -4,7 +4,11 @@ import homecars from "../../homecars.json";
 function Card() {
   const renderCards = (cars) => {
     return cars.map((car) => (
-      <div key={car.name} className="container relative">
+      <section
+        key={car.name}
+        id="booking-section"
+        className="container relative"
+      >
         <div className="nike-card relative">
           <div className="absolute top-0 left-0 z-50 m-2 p-4 text-white">
             <p className="bg-[#ff4d30] text-2xl px-2 py-1 rounded-md">
@@ -146,7 +150,7 @@ function Card() {
             </div>
           </div>
         </div>
-      </div>
+      </section>
     ));
   };
 
