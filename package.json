@@ -11,6 +11,7 @@
   "dependencies": {
     "@tabler/icons-react": "^3.11.0",
     "next": "14.2.5",
+    "next-sitemap": "^4.2.3",
     "react": "^18",
     "react-dom": "^18",
     "reveal-on-scroll-react": "^0.0.6"
