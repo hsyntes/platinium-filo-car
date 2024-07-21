@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://platiniumcarfilo.com
+
+# Sitemaps
+Sitemap: https://platiniumcarfilo.com/sitemap.xml
