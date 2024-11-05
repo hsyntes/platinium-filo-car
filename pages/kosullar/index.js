@@ -39,7 +39,7 @@ function KosullarPage({ meta, headings }) {
 }
 
 export async function getServerSideProps() {
-  const response = await fetch("https://platiniumcarfilo.com/api/terms");
+  const response = await fetch(`${process.env.NEXT_PUBLIC_API}/terms`);
   const { data } = await response.json();
 
   const { meta, headings } = data;
