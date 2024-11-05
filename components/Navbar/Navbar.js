@@ -11,8 +11,6 @@ function Navbar() {
 
   const { pathname } = router;
 
-  console.log("pathname: ", pathname);
-
   const openNav = () => {
     setNav(!nav);
   };
