@@ -21,7 +21,7 @@ export default function Home({ meta, headings }) {
 }
 
 export async function getServerSideProps() {
-  const response = await fetch("https://platiniumcarfilo.com/api/home");
+  const response = await fetch(`${process.env.NEXT_PUBLIC_API}/home`);
   const { data } = await response.json();
 
   const { meta, headings } = data;

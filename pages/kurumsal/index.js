@@ -159,9 +159,7 @@ function KurumsalPage({ meta, headings, lists }) {
 }
 
 export async function getServerSideProps() {
-  const response = await fetch(
-    "https://platiniumcarfilo.com/api/institutional"
-  );
+  const response = await fetch(`${process.env.NEXT_PUBLIC_API}/institutional`);
   const { data } = await response.json();
 
   const { meta, headings, lists } = data;
