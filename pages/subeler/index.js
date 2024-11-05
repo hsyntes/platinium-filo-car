@@ -92,7 +92,7 @@ function BranchesPage({ meta, headings }) {
 }
 
 export async function getServerSideProps() {
-  const response = await fetch("https://platiniumcarfilo.com/api/branches");
+  const response = await fetch(`${process.env.NEXT_PUBLIC_API}/branches`);
   const { data } = await response.json();
 
   const { meta, headings } = data;
